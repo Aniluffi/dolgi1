@@ -1,0 +1,8 @@
+C:\Users\kab31\OneDrive\Рабочий стол\pr4\pr4_pr-task3\bin\Debug\pr4_pr-task3.exe.config
+C:\Users\kab31\OneDrive\Рабочий стол\pr4\pr4_pr-task3\bin\Debug\pr4_pr-task3.exe
+C:\Users\kab31\OneDrive\Рабочий стол\pr4\pr4_pr-task3\bin\Debug\pr4_pr-task3.pdb
+C:\Users\kab31\OneDrive\Рабочий стол\pr4\pr4_pr-task3\obj\Debug\pr4_pr-task3.csproj.AssemblyReference.cache
+C:\Users\kab31\OneDrive\Рабочий стол\pr4\pr4_pr-task3\obj\Debug\pr4_pr-task3.csproj.SuggestedBindingRedirects.cache
+C:\Users\kab31\OneDrive\Рабочий стол\pr4\pr4_pr-task3\obj\Debug\pr4_pr-task3.csproj.CoreCompileInputs.cache
+C:\Users\kab31\OneDrive\Рабочий стол\pr4\pr4_pr-task3\obj\Debug\pr4_pr-task3.exe
+C:\Users\kab31\OneDrive\Рабочий стол\pr4\pr4_pr-task3\obj\Debug\pr4_pr-task3.pdb

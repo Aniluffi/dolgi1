@@ -1,0 +1,8 @@
+C:\Users\kab31\OneDrive\Рабочий стол\pr6\theme6_pr6\bin\Debug\theme6_pr6.exe.config
+C:\Users\kab31\OneDrive\Рабочий стол\pr6\theme6_pr6\bin\Debug\theme6_pr6.exe
+C:\Users\kab31\OneDrive\Рабочий стол\pr6\theme6_pr6\bin\Debug\theme6_pr6.pdb
+C:\Users\kab31\OneDrive\Рабочий стол\pr6\theme6_pr6\obj\Debug\theme6_pr6.csproj.AssemblyReference.cache
+C:\Users\kab31\OneDrive\Рабочий стол\pr6\theme6_pr6\obj\Debug\theme6_pr6.csproj.SuggestedBindingRedirects.cache
+C:\Users\kab31\OneDrive\Рабочий стол\pr6\theme6_pr6\obj\Debug\theme6_pr6.csproj.CoreCompileInputs.cache
+C:\Users\kab31\OneDrive\Рабочий стол\pr6\theme6_pr6\obj\Debug\theme6_pr6.exe
+C:\Users\kab31\OneDrive\Рабочий стол\pr6\theme6_pr6\obj\Debug\theme6_pr6.pdb
