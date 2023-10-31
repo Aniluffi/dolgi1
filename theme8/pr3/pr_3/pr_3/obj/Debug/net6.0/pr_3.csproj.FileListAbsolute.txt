@@ -1,0 +1,15 @@
+C:\Users\aleks\Desktop\theme8\pr3\pr_3\pr_3\bin\Debug\net6.0\pr_3.exe
+C:\Users\aleks\Desktop\theme8\pr3\pr_3\pr_3\bin\Debug\net6.0\pr_3.deps.json
+C:\Users\aleks\Desktop\theme8\pr3\pr_3\pr_3\bin\Debug\net6.0\pr_3.runtimeconfig.json
+C:\Users\aleks\Desktop\theme8\pr3\pr_3\pr_3\bin\Debug\net6.0\pr_3.dll
+C:\Users\aleks\Desktop\theme8\pr3\pr_3\pr_3\bin\Debug\net6.0\pr_3.pdb
+C:\Users\aleks\Desktop\theme8\pr3\pr_3\pr_3\obj\Debug\net6.0\pr_3.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\theme8\pr3\pr_3\pr_3\obj\Debug\net6.0\pr_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\theme8\pr3\pr_3\pr_3\obj\Debug\net6.0\pr_3.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\theme8\pr3\pr_3\pr_3\obj\Debug\net6.0\pr_3.AssemblyInfo.cs
+C:\Users\aleks\Desktop\theme8\pr3\pr_3\pr_3\obj\Debug\net6.0\pr_3.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\theme8\pr3\pr_3\pr_3\obj\Debug\net6.0\pr_3.dll
+C:\Users\aleks\Desktop\theme8\pr3\pr_3\pr_3\obj\Debug\net6.0\refint\pr_3.dll
+C:\Users\aleks\Desktop\theme8\pr3\pr_3\pr_3\obj\Debug\net6.0\pr_3.pdb
+C:\Users\aleks\Desktop\theme8\pr3\pr_3\pr_3\obj\Debug\net6.0\pr_3.genruntimeconfig.cache
+C:\Users\aleks\Desktop\theme8\pr3\pr_3\pr_3\obj\Debug\net6.0\ref\pr_3.dll
